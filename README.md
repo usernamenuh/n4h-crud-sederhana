@@ -7,6 +7,13 @@ Project ini **tidak mengelola data spesifik**, hanya sebagai implementasi dasar 
 
 Waktu itu saya belajar secara mandiri dari tutorial-tutorial di YouTube, karena belum ada AI seperti ChatGPT. Tujuan saya adalah memahami logika dasar CRUD, bukan membangun aplikasi kompleks.
 
+![Tampilan Aplikasi](asseets/screenshot1.png)
+![Tampilan Aplikasi](asseets/screenshot2.png)
+![Tampilan Aplikasi](asseets/screenshot3.png)
+![Tampilan Aplikasi](asseets/screenshot4.png)
+![Tampilan Aplikasi](asseets/screenshot5.png)
+![Tampilan Aplikasi](asseets/screenshot6.png)
+
 ## 🎯 Fitur
 
 - ✅ Tambah Data (Create)
